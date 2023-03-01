@@ -1,0 +1,22 @@
+C:\Users\Den4i\AppData\Local\Temp\arduino_build_990355\core\mbed\platform\cxxsupport\mstd_mutex.cpp.o: \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino\mbed\platform\cxxsupport\mstd_mutex.cpp \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_mutex \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_utility \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_functional \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_memory \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_type_traits \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_cstddef \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_iterator \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/cxxsupport/mstd_tuple \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/include/platform/mbed_atomic.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/targets/TARGET_RASPBERRYPI/TARGET_RP2040/cmsis.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/core_cm0plus.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/cmsis_version.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/cmsis_compiler.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/cmsis_gcc.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/targets/TARGET_RASPBERRYPI/TARGET_RP2040/cmsis_nvic.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/include/platform/mbed_toolchain.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/include/platform/mbed_preprocessor.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/include/platform/internal/mbed_atomic_impl.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/include/platform/mbed_assert.h \
+ C:\Users\Den4i\AppData\Local\Arduino15\packages\arduino\hardware\mbed_rp2040\3.5.4\cores\arduino/mbed/platform/include/platform/mbed_assert.h
