@@ -449,7 +449,7 @@ void boot() {
 
 void loop() {
   boot();
-  Serial.print("#~/");
+  Serial.print(">~/");
   while(1) {
     digitalWrite(25, HIGH);
   }
