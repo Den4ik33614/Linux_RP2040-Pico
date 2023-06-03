@@ -1,5 +1,0 @@
-C:/Users/Den4i/Linux_RP2040-Pico/cmake-build-pico/CMakeFiles/Production.dir
-C:/Users/Den4i/Linux_RP2040-Pico/cmake-build-pico/CMakeFiles/Debug.dir
-C:/Users/Den4i/Linux_RP2040-Pico/cmake-build-pico/CMakeFiles/Z_DUMMY_TARGET.dir
-C:/Users/Den4i/Linux_RP2040-Pico/cmake-build-pico/CMakeFiles/edit_cache.dir
-C:/Users/Den4i/Linux_RP2040-Pico/cmake-build-pico/CMakeFiles/rebuild_cache.dir
