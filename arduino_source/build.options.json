@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.arm-none-eabi-gcc.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4,runtime.tools.arm-none-eabi-gcc-7-2017q4.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4,runtime.tools.dfu-util.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\dfu-util\\0.10.0-arduino1,runtime.tools.dfu-util-0.10.0-arduino1.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\dfu-util\\0.10.0-arduino1,runtime.tools.rp2040tools.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\rp2040tools\\1.0.6,runtime.tools.rp2040tools-1.0.6.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\rp2040tools\\1.0.6,runtime.tools.openocd.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\openocd\\0.11.0-arduino2,runtime.tools.openocd-0.11.0-arduino2.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\openocd\\0.11.0-arduino2,runtime.tools.bossac.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.9.1-arduino2,runtime.tools.bossac-1.9.1-arduino2.path=C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.9.1-arduino2",
+  "fqbn": "arduino:mbed_rp2040:pico",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\Den4i\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Den4i\\OneDrive\\Документы\\Arduino\\libraries",
+  "runtime.ide.version": "10819",
+  "sketchLocation": "C:\\Users\\Den4i\\proj\\linux_rp2040\\Linux_Kernel_rc0_2040\\Linux_Kernel_rc0_2040.ino"
+}
