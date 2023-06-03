@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-pico-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "pico",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Debug-pico-d3caf0fb1011b6c604d0.json",
+					"name" : "Debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Production::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Production-pico-cf2959bc571761c8c8a3.json",
+					"name" : "Production",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Z_DUMMY_TARGET-pico-cd1abc07fb65ca83517a.json",
+					"name" : "Z_DUMMY_TARGET",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Den4i/Linux_RP2040-Pico/cmake-build-pico",
+		"source" : "C:/Users/Den4i/Linux_RP2040-Pico"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,1182 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 73,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 74,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 83,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 89,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 90,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 93,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 94,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 95,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 96,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 98,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 103,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 105,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 106,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 107,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 108,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 109,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 110,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 111,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 112,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 113,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 114,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 115,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 116,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 117,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 118,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 119,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 120,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 121,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 122,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 123,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 124,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 125,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 126,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 128,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 129,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 130,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 131,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Wvla -fno-rtti -std=gnu++14 -DMBED_TRAP_ERRORS_ENABLED=1 -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -c -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -mcpu=cortex-m0plus -mthumb -iprefixC:/Users/Den4i/.platformio/packages/framework-arduino-mbed/cores/arduino @C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/variants/RASPBERRY_PI_PICO/includes.txt -nostdlib -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10810"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_ARCH_MBED"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "ARDUINO_ARCH_RP2040"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "ARDUINO_RASPBERRY_PI_PICO"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARM_MATH_CM0PLUS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "COMPONENT_FLASHIAP=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "CORE_MAJOR="
+				},
+				{
+					"backtrace" : 11,
+					"define" : "CORE_MINOR="
+				},
+				{
+					"backtrace" : 12,
+					"define" : "CORE_PATCH="
+				},
+				{
+					"backtrace" : 13,
+					"define" : "DEVICE_ANALOGIN=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "DEVICE_FLASH=1"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "DEVICE_I2C=1"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "DEVICE_I2CSLAVE=1"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "DEVICE_INTERRUPTIN=1"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "DEVICE_PORT_IN=1"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "DEVICE_PORT_OUT=1"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "DEVICE_PWMOUT=1"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "DEVICE_RESET_REASON=1"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "DEVICE_RTC=1"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "DEVICE_SERIAL=1"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "DEVICE_SERIAL_FC=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "DEVICE_SPI=1"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "DEVICE_USBDEVICE=1"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "DEVICE_USTICKER=1"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "DEVICE_WATCHDOG=1"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "MBEDTLS_ENTROPY_NV_SEED"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "MBED_BUILD_TIMESTAMP=1670863580.9430058"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "MBED_MPU_CUSTOM"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "MBED_NO_GLOBAL_USING_DIRECTIVE=1"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "PICO_NO_BINARY_INFO=1"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "PICO_ON_DEVICE=1"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "PICO_RP2040_USB_DEVICE_ENUMERATION_FIX=1"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "PICO_TIME_DEFAULT_ALARM_POOL_DISABLED"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "PICO_UART_ENABLE_CRLF_SUPPORT=0"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "PLATFORMIO=60107"
+				},
+				{
+					"backtrace" : 39,
+					"define" : "TARGET_CORTEX"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "TARGET_CORTEX_M"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "TARGET_LIKE_CORTEX_M0"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "TARGET_LIKE_MBED"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "TARGET_M0P"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "TARGET_NAME=RASPBERRY_PI_PICO"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "TARGET_RASPBERRYPI"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "TARGET_RASPBERRY_PI_PICO"
+				},
+				{
+					"backtrace" : 47,
+					"define" : "TARGET_RELEASE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "TARGET_RP2040"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "TARGET_memmap_default"
+				},
+				{
+					"backtrace" : 50,
+					"define" : "TOOLCHAIN_GCC"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "TOOLCHAIN_GCC_ARM"
+				},
+				{
+					"backtrace" : 52,
+					"define" : "USE_ARDUINO_PINOUT"
+				},
+				{
+					"backtrace" : 53,
+					"define" : "__CMSIS_RTOS"
+				},
+				{
+					"backtrace" : 54,
+					"define" : "__CORTEX_M0PLUS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "__MBED_CMSIS_RTOS_CM"
+				},
+				{
+					"backtrace" : 56,
+					"define" : "__MBED__=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 57,
+					"path" : "C:/Users/Den4i/Linux_RP2040-Pico/include"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "C:/Users/Den4i/Linux_RP2040-Pico/src"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/cores/arduino"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/cores/arduino/api/deprecated"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/cores/arduino/api/deprecated-avr-comp"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/variants/RASPBERRY_PI_PICO"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Camera/src"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Ethernet/src"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/GC2145"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/GPS/src"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/GSM/src"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Himax_HM01B0"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Himax_HM0360"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/KernelDebug/src"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/MCUboot/src"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/MLC/src"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/MRI/src"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/NDP/src"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Nano33BLE_System/src"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Nicla_System/src"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/OV7670"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/PDM/src"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Portenta_Audio/src"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Portenta_SDCARD/src"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Portenta_SDRAM/src"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Portenta_Video/src"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Portenta_lvgl/src"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/RPC/src"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/SE05X/src"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/SFU/src"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/SPI"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/STM32H747_System/src"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Scheduler/src"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/SocketWrapper/src"
+				},
+				{
+					"backtrace" : 91,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/ThreadDebug/src"
+				},
+				{
+					"backtrace" : 92,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/USBAudio"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/USBHID/src"
+				},
+				{
+					"backtrace" : 94,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/USBHOST/src"
+				},
+				{
+					"backtrace" : 95,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/USBMIDI"
+				},
+				{
+					"backtrace" : 96,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/USBMSD/src"
+				},
+				{
+					"backtrace" : 97,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/Wire"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/doom/src"
+				},
+				{
+					"backtrace" : 100,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/ea_malloc"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/mbed-memory-status"
+				},
+				{
+					"backtrace" : 102,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/openamp_arduino/src"
+				},
+				{
+					"backtrace" : 103,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/rpclib/src"
+				},
+				{
+					"backtrace" : 104,
+					"path" : "C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/libraries/syntiant_ilib/src"
+				},
+				{
+					"backtrace" : 105,
+					"path" : "C:/Users/Den4i/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "C:/Users/Den4i/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"
+				},
+				{
+					"backtrace" : 107,
+					"path" : "C:/Users/Den4i/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "C:/Users/Den4i/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"
+				},
+				{
+					"backtrace" : 109,
+					"path" : "C:/Users/Den4i/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wvla -fno-rtti -std=gnu++14 -DMBED_TRAP_ERRORS_ENABLED=1 -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -c -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -mcpu=cortex-m0plus -mthumb -iprefixC:/Users/Den4i/.platformio/packages/framework-arduino-mbed/cores/arduino @C:/Users/Den4i/.platformio/packages/framework-arduino-mbed/variants/RASPBERRY_PI_PICO/includes.txt -nostdlib",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
